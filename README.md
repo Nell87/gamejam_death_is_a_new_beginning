@@ -1,1 +1,10 @@
-gamejam_death_is_a_new_beginning
+**CREDITS:**
+
+**Lanea Zimmerman (AKA Sharm)**
+
+Base tileset:
+- grass.png
+
+
+**ScratchIO**
+- Vegetables
